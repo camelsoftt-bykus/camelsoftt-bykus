@@ -294,3 +294,15 @@ body {
   color: #3fb950;
   display: block;
 }
+
+/* Karakterin kareden kareye hareket ederek canlı animasyon oluşturması */
+.dwarf-agent {
+  width: 64px;
+  height: 64px;
+  background: url('dwarf-mining-spritesheet.png') left center;
+  animation: play-dwarf 0.8s steps(6) infinite;
+}
+
+@keyframes play-dwarf {
+  100% { background-position: -384px; }
+}
