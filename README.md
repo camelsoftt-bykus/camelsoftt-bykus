@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Merhaba, Ben [camelsoftt-bykus] 👋
+
+Şu anda **[çoklu alanlarla çalışan bir ekosistem/ kendisini geliştiren bir şirket]** üzerine projeler geliştiriyorum.
+
+---
+
+### 🛠️ Teknolojiler ve Araçlar
+- **Diller:** Python, JavaScript, HTML/CSS
+- **Araçlar:** Git, VS Code, Excel, Figma, Claude 
+
+---
+
+### 🚀 Projelerim
+- **[Proje Adı 1](link):** Ekosistem.
+- **[Proje Adı 2](link):** ai şirket.
+
+---
+
+### 📬 İletişim
+- **LinkedIn:** [linkedin.com/in/kullaniciadi](https://linkedin.com)
+- **E-posta:** camelsoftt@gmail.com
