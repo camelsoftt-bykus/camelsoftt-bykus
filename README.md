@@ -35,3 +35,10 @@ Here are some ideas to get you started:
 ### 📬 İletişim
 - **LinkedIn:** [linkedin.com/in/kullaniciadi](https://linkedin.com)
 - **E-posta:** camelsoftt@gmail.com
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINIZ&show_icons=true&theme=flat)
+
